@@ -1,0 +1,20 @@
+1. x < y
+2. x == y
+3. x + y == n - 1
+4. x + y < n + 5
+5. y in range(2 * x, 2 * (x + 1))
+6. x <= 10 or y <= 10
+7. x > 15 and y > 15
+8. x * y == 0
+9. abs(x - y) > 10
+10. y in range(x + 1, 2 * (x + 1))
+11. x % (n - 3) == 1 or y % (n - 3) == 1
+13. x + y in range(n - 5, n + 4)
+15. abs(x - y) in range(n - 15, n - 4)
+18. min(x, y) < 2 and not x == y == 0
+19. x * y == 0 or max(x, y) == n - 1
+20. (x + y) % 2 == 0
+22. (x + y) % 3 == 0
+23. y % 2 == 0 and x % 3 == 0
+24. x == y or x + y == n - 1
+25. x % 6 == 0 or y % 6 == 0
