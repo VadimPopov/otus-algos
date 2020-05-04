@@ -1,5 +1,4 @@
 def draw(n=25, cond=None):
-    n = int(n)
     for x in range(n):
         for y in range(n):
             print(f"{'#' if eval(cond) else '.'} ", end=' ')
