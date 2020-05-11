@@ -1,0 +1,228 @@
+Greatest Common Divisor
+=======================
+
+Results for subtraction-based algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 3.24800 seconds
+Test 3 - True - Ran in 5.41903 seconds
+Test 4 - True - Ran in 0.08903 seconds
+Test 5 - True - Ran in 0.05700 seconds
+Test 6 - Didn't finish in acceptable time
+Test 7 - Didn't finish in acceptable time
+Test 8 - Didn't finish in acceptable time
+Test 9 - True - Ran in 0.00000 seconds
+
+Results for modulo-based algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00000 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - True - Ran in 0.00000 seconds
+Test 8 - True - Ran in 0.00000 seconds
+Test 9 - True - Ran in 0.00000 seconds
+
+Results for binary algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00000 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - True - Ran in 0.00000 seconds
+Test 8 - True - Ran in 0.00000 seconds
+Test 9 - True - Ran in 0.00000 seconds
+
+
+Raising to a Power
+==================
+
+Results for iterative algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00103 seconds
+Test 3 - True - Ran in 0.00300 seconds
+Test 4 - True - Ran in 0.02497 seconds
+Test 5 - True - Ran in 0.25903 seconds
+Test 6 - True - Ran in 2.53996 seconds
+Test 7 - True - Ran in 25.46548 seconds
+Test 8 - True - Ran in 240.40888 seconds
+Test 9 - True - Ran in 3237.54495 seconds
+
+Results for power-of-2-based algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00100 seconds
+Test 4 - True - Ran in 0.00800 seconds
+Test 5 - True - Ran in 0.12303 seconds
+Test 6 - True - Ran in 0.41000 seconds
+Test 7 - True - Ran in 8.29600 seconds
+Test 8 - True - Ran in 112.80885 seconds
+Test 9 - True - Ran in 347.55292 seconds
+
+Results for binary algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00100 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - True - Ran in 0.00000 seconds
+Test 8 - True - Ran in 0.00000 seconds
+Test 9 - True - Ran in 0.00102 seconds
+
+
+Prime Numbers
+=============
+
+Results for naive algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00093 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00000 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - True - Ran in 0.00300 seconds
+Test 8 - True - Ran in 0.26197 seconds
+Test 9 - True - Ran in 22.86303 seconds
+Test 10 - True - Ran in 1746.31272 seconds
+Test 11 - Didn't finish in acceptable time
+Test 12 - Didn't finish in acceptable time
+Test 13 - Didn't finish in acceptable time
+Test 14 - Didn't finish in acceptable time
+
+Results for naive optimized algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00000 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - True - Ran in 0.00200 seconds
+Test 8 - True - Ran in 0.06100 seconds
+Test 9 - True - Ran in 3.44800 seconds
+Test 10 - True - Ran in 219.61515 seconds
+Test 11 - Didn't finish in acceptable time
+Test 12 - Didn't finish in acceptable time
+Test 13 - Didn't finish in acceptable time
+Test 14 - Didn't finish in acceptable time
+
+Results for Eratosthenes sieve algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00000 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - True - Ran in 0.00000 seconds
+Test 8 - True - Ran in 0.00000 seconds
+Test 9 - True - Ran in 0.01004 seconds
+Test 10 - True - Ran in 0.10103 seconds
+Test 11 - True - Ran in 1.37103 seconds
+Test 12 - True - Ran in 15.38503 seconds
+Test 13 - True - Ran in 171.44740 seconds
+Test 14 - True - Ran in 19.50697 seconds
+
+Results for linear-complexity Eratosthenes sieve algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00000 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - True - Ran in 0.00000 seconds
+Test 8 - True - Ran in 0.00300 seconds
+Test 9 - True - Ran in 0.03003 seconds
+Test 10 - True - Ran in 0.30503 seconds
+Test 11 - True - Ran in 3.12000 seconds
+Test 12 - True - Ran in 31.50108 seconds
+Test 13 - True - Ran in 324.33510 seconds
+Test 14 - True - Ran in 40.61720 seconds
+
+
+Fibonacci Numbers
+=================
+
+Results for recursive algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00000 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - Didn't finish in acceptable time
+Test 8 - Failed due to exceeding maximum recursion depth (to be expected)
+Test 9 - Failed due to exceeding maximum recursion depth (to be expected)
+Test 10 - Failed due to exceeding maximum recursion depth (to be expected)
+Test 11 - Failed due to exceeding maximum recursion depth (to be expected)
+Test 12 - Failed due to exceeding maximum recursion depth (to be expected)
+
+Results for iterative algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00000 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - True - Ran in 0.00000 seconds
+Test 8 - True - Ran in 0.00000 seconds
+Test 9 - True - Ran in 0.00200 seconds
+Test 10 - True - Ran in 0.09204 seconds
+Test 11 - True - Ran in 7.64504 seconds
+Test 12 - True - Ran in 781.62000 seconds
+
+Results for golden-ratio-based algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00000 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - True - Ran in 0.00000 seconds
+Test 8 - False - Ran in 0.00000 seconds
+Test 9 - False - Ran in 0.00097 seconds
+Test 10 - False - Ran in 0.03804 seconds
+Test 11 - False - Ran in 3.65800 seconds
+Test 12 - Failed due to decimal overflow
+
+Results for matrix-based algorithm
+
+Test 0 - True - Ran in 0.00000 seconds
+Test 1 - True - Ran in 0.00000 seconds
+Test 2 - True - Ran in 0.00000 seconds
+Test 3 - True - Ran in 0.00000 seconds
+Test 4 - True - Ran in 0.00000 seconds
+Test 5 - True - Ran in 0.00000 seconds
+Test 6 - True - Ran in 0.00000 seconds
+Test 7 - True - Ran in 0.00000 seconds
+Test 8 - True - Ran in 0.00000 seconds
+Test 9 - True - Ran in 0.00100 seconds
+Test 10 - True - Ran in 0.01700 seconds
+Test 11 - True - Ran in 0.94303 seconds
+Test 12 - True - Ran in 77.02529 seconds

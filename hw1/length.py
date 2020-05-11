@@ -1,5 +1,6 @@
-def find_length(string=None):
+def find_length(string):
     return len(string)
+
 
 if __name__ == '__main__':
     import sys

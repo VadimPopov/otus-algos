@@ -1,8 +1,12 @@
+import sys
+sys.path.append('..')
 from collections import defaultdict
 
+from helpers import arg_parser
 
-def find_num_tickets(n=None, mem=defaultdict(dict)):
-    n = int(n)
+
+@arg_parser
+def find_num_tickets(n, mem=defaultdict(dict)):
     max_digit = 9
     # max sum of digits in left/right half of the ticket of length 2 * n
     max_sum = max_digit * n
@@ -23,8 +27,6 @@ def find_num_tickets(n=None, mem=defaultdict(dict)):
 
 
 if __name__ == '__main__':
-    import sys
-    sys.path.append('..')
     from tester import Tester
 
     tester = Tester(find_num_tickets, '1.Tickets')
