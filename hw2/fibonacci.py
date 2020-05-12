@@ -29,6 +29,9 @@ def fib_golden_ratio(n):
 
 @arg_parser
 def fib_matrix(n):
+    if n < 2:
+        return n
+    n -= 1
     res = np.eye(2, dtype='object')
     base = np.ones((2, 2), dtype='object')
     base[1, 1] = 0
@@ -37,7 +40,7 @@ def fib_matrix(n):
             res = res @ base
         base = base @ base
         n >>= 1
-    return res[1, 0]
+    return res[0, 0]
 
 
 if __name__ == '__main__':
