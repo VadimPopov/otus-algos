@@ -37,7 +37,11 @@ def fib_matrix(n):
     base[1, 1] = 0
     while n:
         if n % 2 == 1:
-            res = res @ base
+            # res = res @ base
+            # being more explicit and taking advantage of res[0, 1] == res[1, 0] and res[0, 0] == res[1, 1] + res[0, 1]
+            res[1, 1] = res[1, :] @ base [:, 1]
+            res[[0, 1], [1, 0]] = res[0, :] @ base[:, 1]
+            res[0, 0] = res[1, 1] + res[0, 1]
         base = base @ base
         n >>= 1
     return res[0, 0]
